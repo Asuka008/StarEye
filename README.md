@@ -1,5 +1,8 @@
 # StarEye
 Official code repository for "StarEye: An advanced model for underwater human detection"
+<p align="center">
+  ![Graph/1.jpg](https://github.com/Asuka008/StarEye/blob/main/Graphs/1.jpg"1.jpg")
+</p>
 
 ### 🚀 **Detailed tutorial is coming soon!**  
 *Stay tuned for an in-depth guide with step-by-step instructions and examples!*  
