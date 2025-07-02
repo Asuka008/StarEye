@@ -1,5 +1,5 @@
 # StarEye
-Official code repository for "StarEye: An advanced model for underwater human detection"
+Official code repository for "An advanced three stage lightweight model for underwater human detection"
 
 
 ### 🚀 **Detailed tutorial is coming soon!**  
