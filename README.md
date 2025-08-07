@@ -64,7 +64,7 @@ python3 detect.py
 # Citation
 If you find this work useful, please cite:
 ```bibtex
-@article{liao2025advanced,
+@article{StarEye,
   title={An advanced three stage lightweight model for underwater human detection},
   author={Liao, Zichen and Hu, Kai and Meng, Yuancheng and Shen, Shuai},
   journal={Scientific Reports},
