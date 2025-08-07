@@ -28,7 +28,7 @@ StarEye features a three-stage architecture with key innovations:
 | MobileNet-CA  | 94.4%   | 13.2      | 71   | 15.7      |
 | **StarEye**   | **95.1%**| **3.8**   | **198**| **4.5**  |
 
-![Performance Comparison](images/131.jpg)  
+<img src="images/131.jpg" width="500" />
 *3D performance comparison (Bubble size = average of GFLOPs & Inference Time)*
 
 ## Installation
