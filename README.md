@@ -31,6 +31,8 @@ StarEye features a three-stage architecture with key innovations:
 <img src="images/131.jpg" width="500" />
 *3D performance comparison (Bubble size = average of GFLOPs & Inference Time)*
 
+![Comparison results](images/14.jpg)
+
 ## Installation
 ```bash
 git clone https://github.com/Asuka008/StarEye.git
