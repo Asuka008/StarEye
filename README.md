@@ -1,7 +1,7 @@
 # StarEye
 Official code repository for "An advanced three stage lightweight model for underwater human detection"
 
-![StarEye Architecture](images/13.jpg)
+![StarEye Architecture](images/6.jpg)
 
 ## Overview
 StarEye is a state-of-the-art lightweight deep learning model designed for robust underwater human body detection (UHBD) in complex marine environments. It achieves **95.1% mAP50** with only **3.8MB model size** (16.9% of YOLOv8s), making it ideal for deployment on resource-constrained AUVs. The model maintains high performance under challenging conditions including poor visibility, dynamic lighting, biological interference, and partial occlusions.
@@ -28,7 +28,7 @@ StarEye features a three-stage architecture with key innovations:
 | MobileNet-CA  | 94.4%   | 13.2      | 71   | 15.7      |
 | **StarEye**   | **95.1%**| **3.8**   | **198**| **4.5**  |
 
-![Performance Comparison](images/6.jpg)  
+![Performance Comparison](images/13.jpg)  
 *3D performance comparison (Bubble size = average of GFLOPs & Inference Time)*
 
 ## Installation
